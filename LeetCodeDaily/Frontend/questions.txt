@@ -5,7 +5,7 @@ React tech related question:
     (3). componentWillUpdate(object nextProps, object nextState)(?)
     (4). componentDidUpdate(object prevProps, object prevState)(?)
     (5). componentWillUnmount()
-2. Handle function: handleClientNameUpdated = (event, { value }) => {}, the event and value. (?)
+2. Handle function: handleClientNameUpdated = (event, { value }) => {}, the event and value. (https://zh-hans.reactjs.org/docs/handling-events.html)
 3. _.map function. (?)
 4. Normal function format. (?)
 5. nodejs, npm, yarn.
